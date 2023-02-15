@@ -1,0 +1,25 @@
+# Project exclude paths
+# Directorios
+out/
+target/
+.idea/
+build/
+
+# Archivos
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+*.log
+*.swp
+*.bak
+*.orig
+
+# Archivos de configuración de IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
